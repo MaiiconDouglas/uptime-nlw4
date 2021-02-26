@@ -39,12 +39,9 @@ This project is for study purposes too, so send me an email telling me what you 
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGoZg9wA8IXdA/profile-displayphoto-shrink_100_100/0/1596552156209?e=1619654400&v=beta&t=fScJtnViOSWS62N83G4T5DzTpzAUa81PGOnEvBA55Ls" width="100px;" alt=""/>
-
-By Maicon Douglas 👋🏽 Find me:
-
 [![Linkedin Badge](https://media-exp1.licdn.com/dms/image/C4D03AQGoZg9wA8IXdA/profile-displayphoto-shrink_100_100/0/1596552156209?e=1619654400&v=beta&t=fScJtnViOSWS62N83G4T5DzTpzAUa81PGOnEvBA55Ls)](https://www.linkedin.com/in/maiconndouglas/)
 
+By Maicon Douglas 👋🏽 Find me:
 
 <h2 id="license"> 📝 License </h2>
 
