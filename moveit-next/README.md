@@ -1,33 +1,48 @@
-# NLW 4 - trilha ReactJS
-## Anotações gerais
-Diferença entre *children* e *props*: *props* é passada dentro da tag de abertura. Uma *children* é passada entre a tag de abertura e a de fechamento.
-Ex: 
+<h1 align="center">
+     UpTime | NLW#4
+</h1>
+<p align="center"> Application developed in the fourth edition of Rocketseat Next Level Week 💻🚀 </p>
 
-```js
-<button type="button" style={{color: props.color}}>
-    {props.children}
-</button>
+<p align="center">
+ <a href="#objective">Objective</a> •
+ <a href="#technologies">Technologies</a> • 
+ <a href="#contribution">Contribution</a> • 
+ <a href="#author">Author</a> • 
+ <a href="#license">License</a>
+</p>
 
-export Button
-```
+<h1 align="center">
+  <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="MoveIt" src="public/assets/home.png" />
+</h1>
 
-```js
-<Button color="red">
-    Botão 1
-</Button>
-```
+<h4 align="center"> 
+	🚧 Time Up | NLW#4 ⏰📈 Loading...  🚧
+</h4>
 
-##### Next.JS
+<h2 id="objective" > 🎯 Objective </h2>
 
-O next.JS substitui o create-react-app, é considerado um framework em cima do React. Ele permite que seja trabalhado 3 conceitos valiosíssimos para o front-end: SPA(Single Page Aplicattion), SSR (Server-Side Rendering) e SGA (Static Side Generation). O next.JS nasce da busca de melhorar o SEO(Search Engineer Otimization), mas atualmente ele tem uma amplitude de benefícios muito além disso. 
+Track your time, be more productive and take care of your health. The layout of Move.it is available <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
 
-##### CSS Modules
+<h2 id="technologies"> 🛠 Technologies </h2>
 
-Usado para que o CSS não afete outras páginas, restringe o CSS apenas ao componente no caso dessa aplicação.
-Ex.: na pasta src/components/ExperienceBar.tsx foi importado o css com o nome 'styles' e nas classes são usados styles.[nome da classe definida no css importado].
+The following tools were used in the construction of the project:
 
-### Comandos de criação do app
+- [React](https://reactjs.org)
+- [Next](https://nextjs.org)
+- [Node.js](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com)
+- [Git Bash](https://gitforwindows.org/)
 
-- npx create-next-app moveit-next - cria o projeto em next
-- npm install typescript @types/react @types/react-dom @types/node -D - instalando typescript na aplicação
-- npm run dev - Roda o projeto
+<h2 id="contribution"> 🤝 Contribution </h2>
+
+This project is for study purposes too, so send me an email telling me what you are doing and why you are doing it, teach me what you know. All kinds of contributions are very welcome and appreciated!
+
+<h2 id="author"> 💻 Author </h2>
+
+[![Linkedin Badge](https://media-exp1.licdn.com/dms/image/C4D03AQGoZg9wA8IXdA/profile-displayphoto-shrink_100_100/0/1596552156209?e=1619654400&v=beta&t=fScJtnViOSWS62N83G4T5DzTpzAUa81PGOnEvBA55Ls)](https://www.linkedin.com/in/maiconndouglas/)
+
+By Maicon Douglas 👋🏽 Find me:
+
+<h2 id="license"> 📝 License </h2>
+
+This project is under the MIT license.
